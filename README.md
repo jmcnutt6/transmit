@@ -7,19 +7,13 @@ These sketches and library were written as part of a lesson to demonstrate how i
 - 2 Insulated copper wires with the ends stripped
 
 ##Setup
-Connect an Arduino to a computer using a serial cable.
-
-Import the Transmit library for use by the Arduino IDE.
-
+Connect an Arduino to a computer using a serial cable.   
+Import the Transmit library for use by the Arduino IDE.   
 Flash the sender.ini sketch to the Arduino
 
-
-Connect the other Arduino to the other computer using the other serial cable.
-
-Import the Transmit library for use by the Arduino IDE.
-
+Connect the other Arduino to the other computer using the other serial cable.   
+Import the Transmit library for use by the Arduino IDE.   
 Flash the receiver.ini sketch to the Arduino
-
 
 Connect a ground pin from one Arduino to a ground pin on the other and connect pin 13 of the Arduino flashed with sender.ini to pin 12 of the Arduino flashed with receiver.ini using the jumper wires.
 
